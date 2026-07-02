@@ -1,0 +1,16 @@
+# FundAnalyzer 依赖
+# 安装: pip install -r requirements.txt
+
+# 核心数据分析
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.9.0
+
+# 基金数据 (免费，无需 API Key)
+akshare>=1.14.0
+
+# 可选: Jupyter Notebook
+jupyter>=1.0.0
+
+# 可选: 图表可视化
+matplotlib>=3.6.0
